@@ -1,0 +1,10 @@
+Hi There,
+I am Akshat Bajpai and Welcome to Multi-Utility Tool Hub.
+Hope you like our Basic Daily Planner and Organizer. Here you can:
+1>.Insert your daily notes in the Daily Journal.
+2>.Set Reminders.
+3>.Create your own To-Do List.
+4>.Change the themes.
+5>.Create your own profile with your Username and Password.
+
+A Sophomore year Project at Jaypee University Of Engineering and Technology,Guna(473226),Madhya Pradesh(India).
